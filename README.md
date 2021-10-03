@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @faegnir
-- 👀 I’m interested in web programming and mobile development familiar with front-end, Python and C.
+- 👀 I’m interested in web programming, mobile development & game development.
 - 🌱 I’m currently learning Flutter, and C#
 - I'm familiar with front-end development, Python, C and SQLite.
