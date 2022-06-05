@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @faegnir
-- 👀 I’m interested in web programming, mobile development & game development.
-- 🌱 I’m currently learning C#
-- I'm familiar with front-end development, Python, C/C++ and SQLite.
+- 👀 I'm interested in web development, game development and mobile development.
+- 🌱 Currently developing with C#, Python, C++, JS.
+- I'm familiar with design patterns, SW architecture also front-end development, Python, C/C++, C# and MSSQL & SQLite.
