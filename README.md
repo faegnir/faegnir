@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @faegnir
-- 👀 I'm interested in web development, game development and mobile development.
+- 👀 I'm interested in indie hacking! as well as game development and web development.
 - 🌱 Currently developing with C#, Python, C++, JS.
-- I'm familiar with design patterns, SW architecture also front-end development, Python, C/C++, C# and MSSQL & SQLite.
+- I'm familiar with design patterns, SW architecture, machine learning and these -> C#, C/C++, Python, flask, node.js and SQL techs.
