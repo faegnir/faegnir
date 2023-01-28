@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @faegnir
-- 👀 I'm interested in indie hacking! as well as game development and machine learning/AI.
+- 👀 I'm interested in indie hacking! as well as game development and computer vision/ML.
 - 🌱 Currently developing with C#, Python, C++, JS.
 - I'm familiar with design patterns, SW architecture, machine learning and these techs -> C#, C/C++, Python, JS, DB techs.
