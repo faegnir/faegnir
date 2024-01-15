@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @faegnir
-- 👀 My interests are Machine Learning/DL - Web - Game!
+- 👀 My interests are Machine Learning - AI - Game development!
 - 🌱 Currently developing with Python, C#, C++..
